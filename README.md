@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Emily 👋
 
 I'm a 20 year old, 3rd year Mathematics-Computer Science undergraduate at the University of California, San Diego. I'm expected to receive my Bachelor's in December 2024 🎓
 
