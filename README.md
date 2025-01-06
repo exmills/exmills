@@ -1,6 +1,6 @@
 ## Hi there, I'm Emily 👋
 
-I'm a 20 year old, 3rd year Mathematics-Computer Science undergraduate at the University of California, San Diego. I'm expected to receive my Bachelor's in December 2024 🎓
+I'm a 21 year old with a Bachelor's Degree in Mathematics-Computer Science from the University of California, San Diego.
 
 - 📫 Email: exmills03@gmail.com
 - 😄 Pronouns: She/her
