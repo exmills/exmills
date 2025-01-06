@@ -5,7 +5,7 @@ I'm a 20 year old, 3rd year Mathematics-Computer Science undergraduate at the Un
 - 📫 Email: exmills03@gmail.com
 - 😄 Pronouns: She/her
 - 🌷 I'm passionate about UI design, mathematics (specifically abstract algebra), and environmental sustainability.
-- 🔭 I’m currently working on the UI design for a dating app (self project)❤️
+- 🔭 I’m currently working on the UI design for an app (self project)❤️
 - 🌱 I’m currently learning how to clean, wrangle, and analyze data.
 - 💼 My dream job is to begin/work for a startup company and help design their website/app/product.
 - ⚡ Fun fact: I can solve a Rubik's Cube!
